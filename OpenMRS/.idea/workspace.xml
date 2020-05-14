@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c01a5ad0-952f-4f3e-8a29-f81c15b038e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="pluginUpdatePolicy" value="UPDATE" />
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YEZGEFc0uWbshN0u5t7TzYdMir" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/muammerturan/Downloads/OpenMRS/LoginTestRunner.xml">
+    <configuration name="PatientRegisterTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenMRS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.com.openmrs.RegisterTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.com.openmrs.RegisterTests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.com.openmrs.RegisterTests.PatientRegisterTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/muammerturan/Downloads/OpenMRS/HomePageRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenMRS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/HomePageRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/muammerturan/Downloads/OpenMRS/LoginTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenMRS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/LoginTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/muammerturan/Downloads/OpenMRS/RegistrationRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenMRS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/RegistrationRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/muammerturan/Downloads/OpenMRS/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenMRS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.PatientRegisterTest" />
+      <item itemvalue="TestNG./Users/muammerturan/Downloads/OpenMRS/testng.xml" />
+      <item itemvalue="TestNG./Users/muammerturan/Downloads/OpenMRS/LoginTestRunner.xml" />
+      <item itemvalue="TestNG./Users/muammerturan/Downloads/OpenMRS/RegistrationRunner.xml" />
+      <item itemvalue="TestNG./Users/muammerturan/Downloads/OpenMRS/HomePageRunner.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/muammerturan/Downloads/OpenMRS/LoginTestRunner.xml" />
+        <item itemvalue="TestNG./Users/muammerturan/Downloads/OpenMRS/RegistrationRunner.xml" />
+        <item itemvalue="TestNG./Users/muammerturan/Downloads/OpenMRS/HomePageRunner.xml" />
+        <item itemvalue="TestNG./Users/muammerturan/Downloads/OpenMRS/testng.xml" />
+        <item itemvalue="TestNG.PatientRegisterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c01a5ad0-952f-4f3e-8a29-f81c15b038e7" name="Default Changelist" comment="" />
+      <created>1582392706943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582392706943</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1280" height="136" key="GridCell.Tab.0.bottom" timestamp="1587593030753">
+      <screen x="-1280" y="280" width="1280" height="800" />
+    </state>
+    <state width="1280" height="136" key="GridCell.Tab.0.bottom/-1280.280.1280.800/0.0.1920.1080@-1280.280.1280.800" timestamp="1587593030753" />
+    <state width="1920" height="335" key="GridCell.Tab.0.bottom/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1587533338022" />
+    <state width="1280" height="136" key="GridCell.Tab.0.bottom/-1280.280.1280.800/0.23.1920.1057@-1280.280.1280.800" timestamp="1587592987209" />
+    <state width="1280" height="136" key="GridCell.Tab.0.center" timestamp="1587593030748">
+      <screen x="-1280" y="280" width="1280" height="800" />
+    </state>
+    <state width="1280" height="136" key="GridCell.Tab.0.center/-1280.280.1280.800/0.0.1920.1080@-1280.280.1280.800" timestamp="1587593030748" />
+    <state width="1920" height="335" key="GridCell.Tab.0.center/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1587533338020" />
+    <state width="1280" height="136" key="GridCell.Tab.0.center/-1280.280.1280.800/0.23.1920.1057@-1280.280.1280.800" timestamp="1587592987204" />
+    <state width="1280" height="136" key="GridCell.Tab.0.left" timestamp="1587593030747">
+      <screen x="-1280" y="280" width="1280" height="800" />
+    </state>
+    <state width="1280" height="136" key="GridCell.Tab.0.left/-1280.280.1280.800/0.0.1920.1080@-1280.280.1280.800" timestamp="1587593030747" />
+    <state width="1920" height="335" key="GridCell.Tab.0.left/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1587533338019" />
+    <state width="1280" height="136" key="GridCell.Tab.0.left/-1280.280.1280.800/0.23.1920.1057@-1280.280.1280.800" timestamp="1587592987203" />
+    <state width="1280" height="136" key="GridCell.Tab.0.right" timestamp="1587593030749">
+      <screen x="-1280" y="280" width="1280" height="800" />
+    </state>
+    <state width="1280" height="136" key="GridCell.Tab.0.right/-1280.280.1280.800/0.0.1920.1080@-1280.280.1280.800" timestamp="1587593030749" />
+    <state width="1920" height="335" key="GridCell.Tab.0.right/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1587533338021" />
+    <state width="1280" height="136" key="GridCell.Tab.0.right/-1280.280.1280.800/0.23.1920.1057@-1280.280.1280.800" timestamp="1587592987206" />
+    <state x="639" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1587535786505">
+      <screen x="0" y="0" width="1920" height="1028" />
+    </state>
+    <state x="639" y="354" key="com.intellij.ide.util.TipDialog/-1280.280.1280.800/0.0.1920.1028@0.0.1920.1028" timestamp="1587535786505" />
+    <state x="639" y="372" key="com.intellij.ide.util.TipDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1585000557320" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>expectedConfirmData.get(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>actualData</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>expectedHeader.get(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>registerPage.nameHeaders.get(0).getText()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>registerPage.nameHeaders.get(2).getText()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>softAssert.assertEquals(registerPage.nameHeaders.get(2).getText(),&quot;Family Name(required)&quot; )</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>

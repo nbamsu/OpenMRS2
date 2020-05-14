@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [OpenMRS Regression Test]">
+  <test thread-count="5" name="OpenMRS Registration Test(failed)">
+    <classes>
+      <class name="Tests.com.openmrs.RegisterTests.PatientRegisterTest">
+        <methods>
+          <include name="validatePatientRegistration"/>
+          <include name="setDriver"/>
+          <include name="validateMultiplePatientRegistration"/>
+          <include name="validateHeaders"/>
+          <include name="tearDown"/>
+          <include name="validateDemographics"/>
+          <include name="logInMRS"/>
+          <include name="validateTitle"/>
+          <include name="takeScreenShot"/>
+        </methods>
+      </class> <!-- Tests.com.openmrs.RegisterTests.PatientRegisterTest -->
+    </classes>
+  </test> <!-- OpenMRS Registration Test(failed) -->
+</suite> <!-- Failed suite [OpenMRS Regression Test] -->
